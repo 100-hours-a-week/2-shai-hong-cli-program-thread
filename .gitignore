@@ -1,0 +1,19 @@
+*.class
+*.log
+*.tmp
+bin/
+
+# 📂 Mac 관련 불필요한 파일 무시
+.DS_Store
+
+# 🛠️ VS Code 관련 파일 무시
+.vscode/
+
+# 🚀 IntelliJ IDEA 관련 파일 무시
+.idea/
+*.iml
+
+# 🚀 Eclipse 관련 파일 무시
+.project
+.classpath
+.settings/
